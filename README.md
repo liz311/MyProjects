@@ -1,6 +1,6 @@
 # MyProjects
 
-Projects
+
 Hi, my name is Lizzy and I'm a last year student in computer science. This is my limited portfolio. This git includes most of my code-work during my studies.
 
 subject	lang
